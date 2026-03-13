@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チイサナシアワセ",
+  "base_artist": "Swagcky",
+  "createdAt": "2026-03-13T14:42:08.955714Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チイサナシアワセ",
+      "artist": "Swagcky",
+      "has_synced": false,
+      "path": "select/pl_01_チイサナシアワセ_Swagcky.txt"
+    }
+  ]
+}
